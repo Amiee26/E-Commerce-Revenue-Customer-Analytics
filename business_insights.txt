@@ -1,0 +1,15 @@
+E-COMMERCE REVENUE & CUSTOMER ANALYTICS
+=============================================
+
+1. Geographic Performance: SP (Sao Paulo) generated the highest revenue at 5,202,955.05 and had 40,302 customers.
+
+2. Customer Value: PB had the highest revenue per customer at 222.10.
+
+3. Customer Reviews: The average review score was 4.09 out of 5.
+
+4. Order Performance: 96,478 orders were delivered out of 99,441 total orders.
+
+5. Revenue: Delivered product revenue was 13,221,498.11, with an average order value of 137.04.
+
+6. Business Recommendation: Maintain the strong SP market while investigating high revenue per customer in PB and other promising states.
+
